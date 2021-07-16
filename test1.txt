@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1A20-5073
+
+ Directory of C:\Users\Raj\Desktop\project
+
+16-07-2021  18:46    <DIR>          .
+16-07-2021  18:46    <DIR>          ..
+16-07-2021  18:46                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,314,255,360 bytes free
